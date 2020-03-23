@@ -9,3 +9,27 @@
 ## My long term career goals are:
 1. Become a data scientist
 1. Be an expert in Python
+
+-----
+
+![Python](./images/Python_Logo.jpg)
+
+
+
+
+We can change the size of image using HTML codes here:
+
+```
+<img src="drawing.jpg" alt="drawing" width="200"/>
+```
+
+<img src="./images/Python_Logo.jpg" alt="drawing" width="200"/>
+
+-----
+
+## **Confucius said**
+> <font size = "5">*It does not matter how slowly you go as long as you do not stop.*</font>
+
+---
+
+## By the way, [Google]("https://www.google.com/") is my best friend.
