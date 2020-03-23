@@ -32,4 +32,4 @@ We can change the size of image using HTML codes here:
 
 ---
 
-## By the way, [Google]("https://www.google.com/") is my best friend.
+## By the way, [Google](https://www.google.com/) is my best friend.
